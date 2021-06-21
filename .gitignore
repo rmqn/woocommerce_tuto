@@ -1,0 +1,10 @@
+vendor
+wp
+wp-config.php
+content/languages
+content/upgrade
+content/uploads
+content/plugins/*
+content/themes/*
+!content/themes/woocommerce-shop
+!content/plugins/woocommerce
